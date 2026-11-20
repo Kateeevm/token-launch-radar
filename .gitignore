@@ -1,0 +1,9 @@
+# Credentials and secrets — never commit these.
+.env
+.env.*
+*.key
+*.pem
+*.keystore
+*keypair*
+*credentials*
+*secret*
